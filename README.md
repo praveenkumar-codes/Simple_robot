@@ -30,7 +30,6 @@ simple_robot/
 ├── simple_robot/
 │   └── obstacle_avoidance.py         # the reactive control node
 ├── docs/
-│   ├── lesson_plan.html              # 1-hour teaching session plan
 │   └── simple_robot_setup_guide.docx # this README, as a printable Word doc
 └── test/                             # ament lint/copyright/pep257 checks
 ```
@@ -144,7 +143,6 @@ A `ros_gz_bridge parameter_bridge` node (started by `sim.launch.py`) is what con
 
 ## Further reading
 
-- [`docs/lesson_plan.html`](docs/lesson_plan.html) — a one-hour session plan for teaching this project to students new to ROS 2.
 - [`docs/simple_robot_setup_guide.docx`](docs/simple_robot_setup_guide.docx) — this installation guide plus a full glossary of ROS 2/Gazebo terms, as a printable document.
 
 ## License
