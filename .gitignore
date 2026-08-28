@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# ROS 2 workspace build artifacts (in case this ever sits inside a workspace root)
+build/
+install/
+log/
+
+# Editor / OS clutter
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# LibreOffice/Word lock files
+.~lock.*#
